@@ -1,0 +1,16 @@
+# Sensitive keys
+.env
+
+# Local Database
+chroma_db/
+
+# Research Files (Only if too large)
+pdfs/
+
+# Python Environment
+venv/
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
